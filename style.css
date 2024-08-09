@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(101, 155, 101); */
+}
+.profile{
+    font-size: 40px;
+    
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: green;
+    height: 10vh;
+}
+
+.nav-items{
+    display: flex;
+   list-style: none;
+}
+.nav-items li a{
+    padding: 0px 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.ourr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.our{
+    color: rgb(2, 87, 2);
+    font-size: 40px;
+}
+.mujtaba{
+    text-align: center;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
